@@ -11,4 +11,4 @@ import { App } from './training-model-in-browser';
 ```
 
 ## note
-模型运行速度有点慢，需要耐心等待
+模型运行速度有点慢，需要耐心等待.
