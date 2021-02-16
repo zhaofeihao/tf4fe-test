@@ -1,7 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import { App } from './pre-trained-model';
+// import { App } from './transfer-learning';
+// import { App } from './training-model-in-browser';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
